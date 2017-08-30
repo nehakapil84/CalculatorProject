@@ -12,10 +12,10 @@ It is a basic calculator which scans user inputs for numbers and method signs an
 	* @mtdSgn for method sign
 	* @exit to exit the program
 	* @parseable to check if double value is parseable as string and be called from anothe class CheckParseable 
-	* @param next().toLowerCase().trim() scanned input to be trimmed, lower caseing and moved to next step to minimise program error 
-  * @GenericStack<E> object is being created as array list
-  * @list.size to support sizeable return of array list
-  * @push to push result into array list
-  * @peek to view result when user request
-  * @Override return with stack + list(as a to string)
-  * @boolean to checkparseable result if true or false 
+	* @param next().toLowerCase().trim() scanned input to be trimmed, lower caseing and moved to next step to minimise program error
+	* @GenericStack<E> object is being created as array list
+	* @list.size to support sizeable return of array list
+	* @push to push result into array list
+	* @peek to view result when user request
+	* @Override return with stack + list(as a to string)
+	* @boolean to checkparseable result if true or false 
